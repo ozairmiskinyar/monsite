@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+}
+.one{
+    color: black;
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+}
+.tow{
+    display: flex;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    
+}
